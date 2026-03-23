@@ -25,3 +25,8 @@ The dashboard answers critical questions about the data professional landscape:
 * **Power BI & Power Query:** Used for the entire ETL process and data modeling.
 * **Data Cleansing:** Focused on removing duplicates and null handling for accurate reporting.
 * **UX/UI for Data:** Designed a dashboard focused on readability, using slicers for real-time filtering by region and occupation.
+
+## 🖼️ Dashboard Preview
+> **Note:** Since GitHub does not render Power BI files, please see the preview of the final dashboard below:
+
+![Dashboard Screenshot](https://github.com/sheldoon/Data-Professional-Survey/blob/main/img/dashboard.jpg)
